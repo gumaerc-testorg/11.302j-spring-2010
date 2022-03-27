@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: ' Assignments '
 parent_type: CourseSection
+parent_uid: 5f9c342a-b7a1-5e3d-dd2d-a710b4327740
 resourcetype: Document
 title: 'Monuments and the Construction of Political Power - Case Study: Humayun''s
   Tomb, New Delhi'
