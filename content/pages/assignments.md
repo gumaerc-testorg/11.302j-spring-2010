@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains a description of the weekly and final assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: ' Assignments '
 uid: 5f9c342a-b7a1-5e3d-dd2d-a710b4327740
 ---
@@ -21,15 +24,15 @@ Your response should be three to five typed pages, and you should present it in 
 
 Student responses to this assignment are included below. All work is courtesy of the student named and used with permission. (Note: student work is from a previous term.)
 
-"Monuments and the Construction of Political Power - Case Study: Humayun's Tomb, New Delhi" - Sadaf Ansari ([PDF]({{< baseurl >}}/resources/mit11_302js10_ansari1))
+"Monuments and the Construction of Political Power - Case Study: Humayun's Tomb, New Delhi" - Sadaf Ansari ({{% resource_link fb15ec8f-d930-a7c3-0cc2-7c39d0a0e633 "PDF" %}})
 
-"Designed for Glory: Huey P. Long's building program in Louisiana" - Jeffrey Hébert ([PDF]({{< baseurl >}}/resources/mit11_302js10_hebert1))
+"Designed for Glory: Huey P. Long's building program in Louisiana" - Jeffrey Hébert ({{% resource_link ad0174af-1dde-b33e-4dd1-8bbd6bd32aae "PDF" %}})
 
-"Olympiastadion Berlin: Embodying Nazi Politics through Architecture" - Todd Kohr ([PDF]({{< baseurl >}}/resources/mit11_302js10_kohr1))
+"Olympiastadion Berlin: Embodying Nazi Politics through Architecture" - Todd Kohr ({{% resource_link 29202162-98f5-35ce-8da6-d9a3fa806b24 "PDF" %}})
 
-"La Grande Arche de la Défense, Paris" - Jacob Simpson ([PDF]({{< baseurl >}}/resources/mit11_302js10_simpson1))
+"La Grande Arche de la Défense, Paris" - Jacob Simpson ({{% resource_link 8c5b7c03-78ab-fc80-8822-98754683da7c "PDF" %}})
 
-"Stealing the Show: Ed Rendell and the Urban Design Politics of Philadelphia's Mummers Parade" - Annis Whitlow ([PDF]({{< baseurl >}}/resources/mit11_302js10_whitlow1))
+"Stealing the Show: Ed Rendell and the Urban Design Politics of Philadelphia's Mummers Parade" - Annis Whitlow ({{% resource_link 6b9b0498-f74b-60d6-5964-b7399ed9bbf7 "PDF" %}})
 
 Final Paper
 -----------
