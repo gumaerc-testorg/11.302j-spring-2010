@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work for a writing assignment on urban design politics.\r\
   \n"
-file: /courses/11-302j-urban-design-politics-spring-2010/ad0174af1ddeb33e4dd18bbd6bd32aae_MIT11_302JS10_hebert1.pdf
+file: /ol-ocw-studio-app/courses/11-302j-urban-design-politics-spring-2010/ad0174af1ddeb33e4dd18bbd6bd32aae_MIT11_302JS10_hebert1.pdf
 file_size: 277050
 file_type: application/pdf
 learning_resource_types: []
