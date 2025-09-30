@@ -220,7 +220,7 @@ Low, Setha. "Unlocking the Gated Community." In _Behind the Gates: Life, Securit
 
 Nelson, Robert H. "Introduction: A Constitutional Revolution." In _Private Neighborhoods and the Transformation of Local Government_. Washington, DC: Urban Institute Press, 2005, pp. 1-18. ISBN: 9780877667513.
 
-Federal Emergency Management Agency. "_[Site and Urban Design for Security: Guidance Against Potential Terrorist Attacks](http://www.fema.gov/library/viewRecord.do?id=3135)_." _FEMA 430_. Washington, DC: FEMA, December 2007. Chapters 1 and 4.
+Federal Emergency Management Agency. "_{{% resource_link "4c9417c8-1475-4a34-919b-1940a00ecf65" "Site and Urban Design for Security: Guidance Against Potential Terrorist Attacks" %}}_." _FEMA 430_. Washington, DC: FEMA, December 2007. Chapters 1 and 4.
 
 Coaffee, Jon, David Murakami Wood, and Peter Rogers. "Controlling the Risky City," and "The Intensification of Control: Towards Urban Resilience." In _The Everyday Resilience of the City: How Cities Respond to Terrorism and Disaster_. New York, NY: Palgrave Macmillan, 2008, pp. 67-109. ISBN: 9780230546738.
 
